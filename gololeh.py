@@ -11,7 +11,7 @@ def print_clean(message):
     print("\r" + message.lstrip(), end="", flush=True)
 
 print(Fore.CYAN + "I'm gololeh")
-print(Fore.YELLOW + "My channel: " + Fore.LIGHTBLUE_EX + "@chanel_culer")
+print(Fore.YELLOW + "My channel: " + Fore.LIGHTBLUE_EX + "@Chanel_BuLlEt")
 print()
 
 print(Fore.MAGENTA + "[+] Connecting to Serveo...")
